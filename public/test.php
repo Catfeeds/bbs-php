@@ -5,4 +5,3 @@
 // //查看服务是否运行
 // echo "Server is running: " . $redis->ping();
 
-$v163 = new \v163Class($AppKey, $AppSecret);
